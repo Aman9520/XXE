@@ -10,3 +10,17 @@ https://lab.wallarm.com/xxe-that-can-bypass-waf-protection-98f679452ce0/
 https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XXE%20Injection
 
 https://medium.com/@onehackman/exploiting-xml-external-entity-xxe-injections-b0e3eac388f9
+
+Videos
+
+https://www.youtube.com/watch?v=QEMOQE_omg8&list=PL9VLN4DOjAshQVPd7v_pd8i-WqFvMM0yG
+
+https://www.youtube.com/watch?v=1KnRbj6kmsY
+
+https://youtu.be/XwXmRbl7uHA?si=ucEKQ5HYqoPDCbAw
+
+https://youtu.be/2sg9HWGRW-w?si=i1knaSqZuvwNpw2e
+
+https://youtu.be/wWRJwFs_DQc?si=gFDd-vuwpd1Mvngz
+
+https://youtu.be/1KnRbj6kmsY?si=EXP33Mk4QdJeds-b
