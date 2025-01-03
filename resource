@@ -11,6 +11,12 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XXE%20Injection
 
 https://medium.com/@onehackman/exploiting-xml-external-entity-xxe-injections-b0e3eac388f9
 
+https://www.blackhillsinfosec.com/xml-external-entity-beyond-etcpasswd-fun-profit/
+
+https://web-in-security.blogspot.com/2014/11/detecting-and-exploiting-xxe-in-saml.html
+
+https://web-in-security.blogspot.com/2015/04/on-security-of-saml-based-identity.html
+
 Videos
 
 https://www.youtube.com/watch?v=QEMOQE_omg8&list=PL9VLN4DOjAshQVPd7v_pd8i-WqFvMM0yG
