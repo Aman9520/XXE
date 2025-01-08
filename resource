@@ -17,6 +17,11 @@ https://web-in-security.blogspot.com/2014/11/detecting-and-exploiting-xxe-in-sam
 
 https://web-in-security.blogspot.com/2015/04/on-security-of-saml-based-identity.html
 
+https://www.netspi.com/blog/technical-blog/web-application-pentesting/playing-content-type-xxe-json-endpoints/
+
+https://www.blackhat.com/docs/webcast/11192015-exploiting-xml-entity-vulnerabilities-in-file-parsing-functionality.pdf
+
+
 Videos
 
 https://www.youtube.com/watch?v=QEMOQE_omg8&list=PL9VLN4DOjAshQVPd7v_pd8i-WqFvMM0yG
